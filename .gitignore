@@ -1,0 +1,10 @@
+node_modules
+client
+e2e
+public
+.tmp
+.sass-cache
+.idea
+client/bower_components
+dist
+/server/config/local.env.js
